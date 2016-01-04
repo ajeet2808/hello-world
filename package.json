@@ -1,0 +1,21 @@
+{
+    "name": "Hello World",
+    "description": "Hello world project",
+    "version": "0.0.1",
+    "main": "./Hello World.js",
+    "author": {
+        "name": "asingh",
+        "email": "you@email.example"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "default"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/Hello World.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/Hello World/issues"
+    }
+}
